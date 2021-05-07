@@ -12,7 +12,7 @@ import java.util.Scanner;
  */
 public class Assignment2 {
 
-	@SuppressWarnings("resource")
+	
 	public static void main(String[] args) {
 		int input1;
 		int input2;
@@ -36,7 +36,7 @@ public class Assignment2 {
 		System.out.println("Multiplication of " + input1 + " and " + input2 + " is " + multiply);
 		System.out.println("Division of " + input1 + " and " + input2 + " is " + divide);
 		System.out.println("Remainder of " + input1 + " and " + input2 + " is " + rem);
-
+		scanner.close();
 	}
 
 }
