@@ -31,6 +31,6 @@ public class Assignment5 {
 			else
 				System.out.println(input + " is not a Prime Number.");
 		}
-
+		scanner.close();
 	}
 }
