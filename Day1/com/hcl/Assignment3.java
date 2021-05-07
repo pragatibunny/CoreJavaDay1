@@ -24,6 +24,7 @@ public class Assignment3 {
 
 		average =((float) (input1 + input2 + input3)/3);
 		System.out.println("Average of " + input1 + "," + input2 + "," + input3 + " is " + average);
+		scanner.close();
 
 	}
 
