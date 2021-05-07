@@ -17,7 +17,7 @@ public class Assignment6 {
 		int castAscii = (int) character;
 		System.out.println("The Character input is " + character);
 		System.out.println("The ASCII value of " + character + " input is: " + castAscii);
-
+		scanner.close();
 	}
 
 }
