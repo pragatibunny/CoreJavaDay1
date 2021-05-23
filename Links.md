@@ -19,5 +19,7 @@ https://github.com/pragatibunny/SQL
 1)   https://pragatibunny.github.io/Assignment1/login.html
 2)   https://pragatibunny.github.io/Assignment2/First.html
 3)   ..
-4)  a)https://github.com/pragatibunny/Assignment4 (**Source Code**)    b) https://pragatibunny.github.io/Assignment4/    (**Output**) 
+4)  a)https://github.com/pragatibunny/Assignment4 (**Source Code**)    b)https://pragatibunny.github.io/Assignment4/    (**Output**) 
 5)  a)https://github.com/pragatibunny/Assignment5 (**Source Code**)    b)https://pragatibunny.github.io/Assignment5/FormatterTags.html (**Output**) 
+6)  a)https://github.com/pragatibunny/Assignment6 (**Source Code**)    b)https://pragatibunny.github.io/Assignment6/    (**Output**) 
+7)  a)https://github.com/pragatibunny/Assignment7 (**Source Code**)    b)https://pragatibunny.github.io/Assignment7/    (**Output**) 
