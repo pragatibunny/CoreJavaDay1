@@ -15,5 +15,6 @@ https://github.com/pragatibunny/CoreJavaDay7
 https://github.com/pragatibunny/SQL
 
 **HTML Assignment**
-1)   https://github.com/pragatibunny/Assignment1/login.html
-2)   https://github.com/pragatibunny/Assignment2/First.html
+
+1)   https://pragatibunny.github.io/Assignment1/login.html
+2)   https://pragatibunny.github.io/Assignment2/First.html
